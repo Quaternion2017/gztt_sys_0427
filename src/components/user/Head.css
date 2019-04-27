@@ -1,0 +1,32 @@
+#login_head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    top:4rem;
+}
+#login_head .head_logo{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+#login_head .head_context .title{
+    font-size:33px;
+    font-weight: 600;
+    color:black;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+#login_head  .title2{
+    font-size:16px;
+    color:rgba(0,0,0,.45);
+    top:1rem;
+    position: relative;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    width:100%;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.ant-form-item{
+    display: inline-flex;
+    width:100%;
+}
+.lis .li_label{
+    display: flex;
+    font-size:16px;
+    color:black;
+    align-items: center;
+    margin-bottom:1rem;
+}
+.lis .li_label .label{
+    width:4em;
+}
+.lis .li_label .input{
+    margin-left:1rem;
+    display: flex;
+}
